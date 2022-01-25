@@ -1,0 +1,52 @@
+<!Doctype html>
+<HTML>
+<HEAD>
+  <Meta charset="UTF-8">
+  <title>Curriculum Vitae</title>
+<style> 
+body {
+height: 100vh;
+background: linear-gradient(to bottom,green,red,yellow);
+} 
+</style> 
+</HEAD>
+<Body>
+<h2>
+<u><b>Présentation:</b></u><br>
+
+
+Je me nomme DJOMO DJOMO JASON YOANN de matricule 21S56743, né le 11 Janvier 2004 à Douala (Cameroun). <br>Je suis actuellement étudiant au Niveau 1, Cycle Licence, à l'Université de Douala plus précisément à la Faculté des Sciences de la Filière Informatique.<br>
+Mon but actuel est de devenir un grand Ingénieur en Informatique et d'être entre temps, un bon développeur Web,afin de pouvoir avoir une stabilité financière tout en restant dans le domaine de mes rêves.<br>
+
+<u><b>Cursus Scolaires:</b></u><br>
+
+<ol type="I">
+<li>Septembre 2005 - Juillet 2014 : Etude Primaire à l’école Royale Bilingue de Ndog-Bong;</li>
+<li>Septembre2014 – Août 2021 : Etude secondaire au Collège Libermann;</li>
+<li>Octobre 2021 jusqu’à nos jours : Etude à la Faculté des Sciences filière ‘Informatique’ de L’Université de Douala;</li>
+</ol>
+
+<u><b>Diplômes Obtenues:</b></u><br>
+
+<ul type="Circle">
+<li>2013-2014 : Obtention de mon CEP(Certificat d’Etude Primaire) à l’école Royale Bilingue de Ndog-Bong;</li>
+<li>2017-2018 : Obtention de mon BEPC(Brevet d’Etude du Premier Cycle) au Collège Libermann;</li>
+<li>2019-2020 : Obtention de mon Probatoire série ‘‘D’’ au Collège Libermann;</li>
+<li>2020-2021 : Obtention de mon Baccalauréat série ‘‘D’’ au Collège Libermann;</li>
+</ul>
+
+<u><b>Langues parlées:</b></u><br>
+<ol type="A">
+<li>Français</li>
+<li>Anglais</li>
+</ol>
+<u><b>Loisirs:</b></u><br>
+
+<ul type="Square">
+<li>Football</li>
+<li>Cinéma</li>
+<li>Lecture</li>
+<li>Jeux Vidéos</li>
+</h2>
+</Body>
+</Html>
